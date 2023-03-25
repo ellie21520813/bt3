@@ -1,0 +1,15 @@
+C:\Users\Asus\Downloads\NT106\dllt106\bt3\server\bin\Debug\net6.0\client.exe
+C:\Users\Asus\Downloads\NT106\dllt106\bt3\server\bin\Debug\net6.0\client.deps.json
+C:\Users\Asus\Downloads\NT106\dllt106\bt3\server\bin\Debug\net6.0\client.runtimeconfig.json
+C:\Users\Asus\Downloads\NT106\dllt106\bt3\server\bin\Debug\net6.0\client.dll
+C:\Users\Asus\Downloads\NT106\dllt106\bt3\server\bin\Debug\net6.0\client.pdb
+C:\Users\Asus\Downloads\NT106\dllt106\bt3\server\obj\Debug\net6.0\client.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\NT106\dllt106\bt3\server\obj\Debug\net6.0\client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Downloads\NT106\dllt106\bt3\server\obj\Debug\net6.0\client.AssemblyInfoInputs.cache
+C:\Users\Asus\Downloads\NT106\dllt106\bt3\server\obj\Debug\net6.0\client.AssemblyInfo.cs
+C:\Users\Asus\Downloads\NT106\dllt106\bt3\server\obj\Debug\net6.0\client.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\NT106\dllt106\bt3\server\obj\Debug\net6.0\client.dll
+C:\Users\Asus\Downloads\NT106\dllt106\bt3\server\obj\Debug\net6.0\refint\client.dll
+C:\Users\Asus\Downloads\NT106\dllt106\bt3\server\obj\Debug\net6.0\client.pdb
+C:\Users\Asus\Downloads\NT106\dllt106\bt3\server\obj\Debug\net6.0\client.genruntimeconfig.cache
+C:\Users\Asus\Downloads\NT106\dllt106\bt3\server\obj\Debug\net6.0\ref\client.dll

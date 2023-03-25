@@ -1,0 +1,15 @@
+C:\Users\Asus\Downloads\NT106\dllt106\bt3\bt3\bin\Debug\net6.0\server.exe
+C:\Users\Asus\Downloads\NT106\dllt106\bt3\bt3\bin\Debug\net6.0\server.deps.json
+C:\Users\Asus\Downloads\NT106\dllt106\bt3\bt3\bin\Debug\net6.0\server.runtimeconfig.json
+C:\Users\Asus\Downloads\NT106\dllt106\bt3\bt3\bin\Debug\net6.0\server.dll
+C:\Users\Asus\Downloads\NT106\dllt106\bt3\bt3\bin\Debug\net6.0\server.pdb
+C:\Users\Asus\Downloads\NT106\dllt106\bt3\bt3\obj\Debug\net6.0\server.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\NT106\dllt106\bt3\bt3\obj\Debug\net6.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Downloads\NT106\dllt106\bt3\bt3\obj\Debug\net6.0\server.AssemblyInfoInputs.cache
+C:\Users\Asus\Downloads\NT106\dllt106\bt3\bt3\obj\Debug\net6.0\server.AssemblyInfo.cs
+C:\Users\Asus\Downloads\NT106\dllt106\bt3\bt3\obj\Debug\net6.0\server.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\NT106\dllt106\bt3\bt3\obj\Debug\net6.0\server.dll
+C:\Users\Asus\Downloads\NT106\dllt106\bt3\bt3\obj\Debug\net6.0\refint\server.dll
+C:\Users\Asus\Downloads\NT106\dllt106\bt3\bt3\obj\Debug\net6.0\server.pdb
+C:\Users\Asus\Downloads\NT106\dllt106\bt3\bt3\obj\Debug\net6.0\server.genruntimeconfig.cache
+C:\Users\Asus\Downloads\NT106\dllt106\bt3\bt3\obj\Debug\net6.0\ref\server.dll
